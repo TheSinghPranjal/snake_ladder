@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="36" viewBox="0 0 48 36">
+<title>sunshine snake head c idle dark</title>
+<defs>
+<clipPath id="h-clip"><path d="M11 18C11 6 34.8 5.4 45 18C34.8 30.6 11 30 11 18Z"/></clipPath>
+</defs>
+<g id="neck">
+<path d="M0 10C9 10 13 9.6 19 9L19 27C13 26.4 9 26 0 26Z" fill="#AED581"/><path d="M0 21H17V26H0Z" fill="#9BCD60"/><path d="M0 10C9 10 13 9.6 19 9" fill="none" stroke="#F8FBF4" stroke-width="2" stroke-linecap="round"/><path d="M19 27C13 26.4 9 26 0 26" fill="none" stroke="#F8FBF4" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="head">
+<path d="M11 18C11 6 34.8 5.4 45 18C34.8 30.6 11 30 11 18Z" fill="#AED581"/><g clip-path="url(#h-clip)"><rect x="11" y="19.8" width="34" height="12" fill="#9BCD60"/><path d="M18 18l4 -4l4 4l-4 4z M26 11l3 -3l3 3l-3 3z M26 25l3 -3l3 3l-3 3z" fill="#388E3C"/></g><ellipse cx="24" cy="12" rx="6.46" ry="2.64" fill="#FFFFFF" fill-opacity="0.45"/><path d="M11 18C11 6 34.8 5.4 45 18C34.8 30.6 11 30 11 18Z" fill="none" stroke="#F8FBF4" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<g id="face">
+<circle cx="42" cy="15.6" r="0.9" fill="#F8FBF4"/><circle cx="42" cy="20.4" r="0.9" fill="#F8FBF4"/><path d="M44 18h7l2.5 -2.2M51 18l2.5 2.2" fill="none" stroke="#E53935" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="30" cy="12.96" r="4" fill="#FFFFFF" stroke="#F8FBF4" stroke-width="1.4"/><circle cx="31.12" cy="12.96" r="2.2" fill="#1D1D26"/><circle cx="30.2" cy="11.76" r="0.88" fill="#FFFFFF"/><circle cx="30" cy="23.04" r="4" fill="#FFFFFF" stroke="#F8FBF4" stroke-width="1.4"/><circle cx="31.12" cy="23.04" r="2.2" fill="#1D1D26"/><circle cx="30.2" cy="21.84" r="0.88" fill="#FFFFFF"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+<title>card panel dark</title>
+<defs>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<g id="card">
+<rect x="4" y="6" width="88" height="88" rx="20" fill="#000000" fill-opacity="0.4" filter="url(#soft)"/><rect x="4" y="3" width="88" height="88" rx="20" fill="#1E2130" stroke="#3A3F57" stroke-width="2"/>
+</g>
+</svg>

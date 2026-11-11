@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+<title>sweets frame light</title>
+<g id="frame">
+<path fill-rule="evenodd" d="M24 2H168Q190 2 190 24V168Q190 190 168 190H24Q2 190 2 168V24Q2 2 24 2ZM26 24H166V166H26Z" fill="#FF8FB8" stroke="#A83A66" stroke-width="3"/><path d="M10 24Q10 10 24 10H168Q182 10 182 24" fill="none" stroke="#FFEBF2" stroke-width="3" stroke-linecap="round"/><path d="M182 168Q182 182 168 182H24Q10 182 10 168" fill="none" stroke="#FF488B" stroke-width="3" stroke-linecap="round"/><rect x="24" y="24" width="144" height="144" fill="none" stroke="#A83A66" stroke-width="3"/><rect x="14" y="14" width="164" height="164" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="2.4" stroke-dasharray="0.1 0" /><circle cx="14" cy="14" r="5" fill="#FFFFFF" stroke="#A83A66" stroke-width="1.6"/><circle cx="14" cy="14" r="2" fill="#4FD1B0"/><circle cx="178" cy="14" r="5" fill="#FFFFFF" stroke="#A83A66" stroke-width="1.6"/><circle cx="178" cy="14" r="2" fill="#4FD1B0"/><circle cx="14" cy="178" r="5" fill="#FFFFFF" stroke="#A83A66" stroke-width="1.6"/><circle cx="14" cy="178" r="2" fill="#4FD1B0"/><circle cx="178" cy="178" r="5" fill="#FFFFFF" stroke="#A83A66" stroke-width="1.6"/><circle cx="178" cy="178" r="2" fill="#4FD1B0"/>
+</g>
+</svg>

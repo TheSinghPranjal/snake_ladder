@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="10" viewBox="0 0 48 10">
+<title>jungle ladder rung dark</title>
+<g id="rung">
+<rect x="1" y="1" width="46" height="8" rx="3" fill="#D9C98A" stroke="#E9F5D6" stroke-width="1.8"/><path d="M16 1.5V8.5M32 1.5V8.5" stroke="#E9F5D6" stroke-width="1.6"/><path d="M3 3.5H45" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.2"/>
+</g>
+</svg>

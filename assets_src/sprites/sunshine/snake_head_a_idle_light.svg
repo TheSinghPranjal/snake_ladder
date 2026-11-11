@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="36" viewBox="0 0 48 36">
+<title>sunshine snake head a idle light</title>
+<defs>
+<clipPath id="h-clip"><path d="M12 18a16 13 0 1 0 32 0a16 13 0 1 0 -32 0Z"/></clipPath>
+</defs>
+<g id="neck">
+<path d="M0 10C10 10 14 8.9 20 8.25L20 27.75C14 27.1 10 26 0 26Z" fill="#8BC34A"/><path d="M0 21H18V26H0Z" fill="#77AE36"/><path d="M0 10C10 10 14 8.9 20 8.25" fill="none" stroke="#354F17" stroke-width="2" stroke-linecap="round"/><path d="M20 27.75C14 27.1 10 26 0 26" fill="none" stroke="#354F17" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="head">
+<path d="M12 18a16 13 0 1 0 32 0a16 13 0 1 0 -32 0Z" fill="#8BC34A"/><g clip-path="url(#h-clip)"><rect x="12" y="19.95" width="32" height="13" fill="#77AE36"/><circle cx="22" cy="12" r="2.2" fill="#2E7D32"/><circle cx="19" cy="22" r="1.8" fill="#2E7D32"/><circle cx="26" cy="26" r="1.6" fill="#2E7D32"/><circle cx="31" cy="9" r="1.5" fill="#2E7D32"/></g><ellipse cx="24" cy="11.5" rx="6.08" ry="2.86" fill="#FFFFFF" fill-opacity="0.45"/><path d="M12 18a16 13 0 1 0 32 0a16 13 0 1 0 -32 0Z" fill="none" stroke="#354F17" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<g id="face">
+<circle cx="41" cy="15.6" r="0.9" fill="#354F17"/><circle cx="41" cy="20.4" r="0.9" fill="#354F17"/><path d="M43 18h7l2.5 -2.2M50 18l2.5 2.2" fill="none" stroke="#E53935" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="30" cy="12.54" r="4.5" fill="#FFFFFF" stroke="#354F17" stroke-width="1.4"/><circle cx="31.26" cy="12.54" r="2.48" fill="#1D1D26"/><circle cx="30.23" cy="11.19" r="0.99" fill="#FFFFFF"/><circle cx="30" cy="23.46" r="4.5" fill="#FFFFFF" stroke="#354F17" stroke-width="1.4"/><circle cx="31.26" cy="23.46" r="2.48" fill="#1D1D26"/><circle cx="30.23" cy="22.11" r="0.99" fill="#FFFFFF"/>
+</g>
+</svg>

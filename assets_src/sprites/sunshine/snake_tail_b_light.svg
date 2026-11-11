@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="24" viewBox="0 0 32 24">
+<title>sunshine snake tail b light</title>
+<g id="tail">
+<path d="M0 7C10 7 22 3 26 8C30 13 24 19 19 16C16 14 19 10 22 12C17 15 8 17 0 17Z" fill="#7CB342"/><path d="M0 13C10 13 18 13 26 12.5L26 14C18 16 10 17 0 17Z" fill="#679835"/><path d="M2 9.2C8 9 14 9.4 18 10" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.6" stroke-linecap="round"/><path d="M0 7C10 7 22 3 26 8C30 13 24 19 19 16C16 14 19 10 22 12C17 15 8 17 0 17Z" fill="none" stroke="#344D19" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</svg>

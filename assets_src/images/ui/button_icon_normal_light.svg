@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="60" viewBox="0 0 56 60">
+<title>icon button normal light</title>
+<g id="button">
+<rect x="1.5" y="7.5" width="53" height="51" rx="18" fill="#DBDBDB" stroke="#433737" stroke-width="3"/><rect x="1.5" y="1.5" width="53" height="51" rx="18" fill="#FFFFFF" stroke="#433737" stroke-width="3"/><rect x="10" y="6.5" width="16.8" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.5"/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "id": "sugar_rush",
+  "name": "Sugar Rush",
+  "theme": "sweets",
+  "size": 10,
+  "unlock": {"type":"wins","count":1},
+  "jumps": [
+    {"id":"L1","type":"ladder","from":3,"to":23},
+    {"id":"L2","type":"ladder","from":14,"to":27},
+    {"id":"L3","type":"ladder","from":24,"to":46},
+    {"id":"L4","type":"ladder","from":33,"to":47},
+    {"id":"L5","type":"ladder","from":42,"to":58},
+    {"id":"L6","type":"ladder","from":57,"to":77},
+    {"id":"L7","type":"ladder","from":61,"to":83},
+    {"id":"L8","type":"ladder","from":73,"to":89},
+    {"id":"L9","type":"ladder","from":86,"to":96},
+    {"id":"S1","type":"snake","rank":1,"from":99,"to":76,"path":[[0.203,0.211],[0.378,0.159]]},
+    {"id":"S2","type":"snake","rank":2,"from":81,"to":31,"path":[[0.22,0.331],[0.472,0.307],[0.525,0.465],[0.808,0.397]]},
+    {"id":"S3","type":"snake","rank":3,"from":26,"to":7,"path":[[0.61,0.79],[0.565,0.902]]},
+    {"id":"S4","type":"snake","rank":4,"from":59,"to":32,"path":[[0.293,0.566],[0.519,0.464],[0.666,0.7]]},
+    {"id":"S5","type":"snake","rank":5,"from":97,"to":74,"path":[[0.412,0.138],[0.614,0.098]]},
+    {"id":"S6","type":"snake","rank":6,"from":72,"to":50,"path":[[0.78,0.368],[0.954,0.445]]},
+    {"id":"S7","type":"snake","rank":7,"from":41,"to":30,"path":[[0.247,0.683],[0.464,0.578],[0.726,0.741]]},
+    {"id":"S8","type":"snake","rank":8,"from":25,"to":16,"path":[[0.43,0.789],[0.487,0.814]]}
+  ]
+}

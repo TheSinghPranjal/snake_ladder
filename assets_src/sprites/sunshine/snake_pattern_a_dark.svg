@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="16" viewBox="0 0 64 16">
+<title>sunshine snake pattern a dark</title>
+<defs>
+<clipPath id="strip"><rect width="64" height="16"/></clipPath>
+</defs>
+<g id="pattern">
+<g clip-path="url(#strip)"><circle cx="8" cy="6" r="2.6" fill="#388E3C"/><circle cx="24" cy="10.5" r="2.1" fill="#388E3C"/><circle cx="40" cy="5.5" r="2.4" fill="#388E3C"/><circle cx="56" cy="10" r="2.2" fill="#388E3C"/></g>
+</g>
+</svg>

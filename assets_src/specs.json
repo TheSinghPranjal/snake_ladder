@@ -1,0 +1,7896 @@
+[
+ {
+  "src": "assets_src/sprites/sunshine/tile_a_light.svg",
+  "out": "assets/sprites/sunshine/tile_a_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_b_light.svg",
+  "out": "assets/sprites/sunshine/tile_b_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_start_light.svg",
+  "out": "assets/sprites/sunshine/tile_start_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_goal_light.svg",
+  "out": "assets/sprites/sunshine/tile_goal_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/board_frame_light.svg",
+  "out": "assets/sprites/sunshine/board_frame_light.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/board_bg_light.svg",
+  "out": "assets/sprites/sunshine/board_bg_light.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sunshine",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/ladder_rail_light.svg",
+  "out": "assets/sprites/sunshine/ladder_rail_light.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/ladder_rung_light.svg",
+  "out": "assets/sprites/sunshine/ladder_rung_light.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/images/board/board_card_sunshine_light.svg",
+  "out": "assets/images/board/board_card_sunshine_light.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_a_dark.svg",
+  "out": "assets/sprites/sunshine/tile_a_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_b_dark.svg",
+  "out": "assets/sprites/sunshine/tile_b_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_start_dark.svg",
+  "out": "assets/sprites/sunshine/tile_start_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/tile_goal_dark.svg",
+  "out": "assets/sprites/sunshine/tile_goal_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/board_frame_dark.svg",
+  "out": "assets/sprites/sunshine/board_frame_dark.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/board_bg_dark.svg",
+  "out": "assets/sprites/sunshine/board_bg_dark.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sunshine",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/ladder_rail_dark.svg",
+  "out": "assets/sprites/sunshine/ladder_rail_dark.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/ladder_rung_dark.svg",
+  "out": "assets/sprites/sunshine/ladder_rung_dark.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/images/board/board_card_sunshine_dark.svg",
+  "out": "assets/images/board/board_card_sunshine_dark.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_a_light.svg",
+  "out": "assets/sprites/sweets/tile_a_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_b_light.svg",
+  "out": "assets/sprites/sweets/tile_b_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_start_light.svg",
+  "out": "assets/sprites/sweets/tile_start_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_goal_light.svg",
+  "out": "assets/sprites/sweets/tile_goal_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/board_frame_light.svg",
+  "out": "assets/sprites/sweets/board_frame_light.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/board_bg_light.svg",
+  "out": "assets/sprites/sweets/board_bg_light.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sweets",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/sweets/ladder_rail_light.svg",
+  "out": "assets/sprites/sweets/ladder_rail_light.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/ladder_rung_light.svg",
+  "out": "assets/sprites/sweets/ladder_rung_light.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/images/board/board_card_sweets_light.svg",
+  "out": "assets/images/board/board_card_sweets_light.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_a_dark.svg",
+  "out": "assets/sprites/sweets/tile_a_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_b_dark.svg",
+  "out": "assets/sprites/sweets/tile_b_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_start_dark.svg",
+  "out": "assets/sprites/sweets/tile_start_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/tile_goal_dark.svg",
+  "out": "assets/sprites/sweets/tile_goal_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/board_frame_dark.svg",
+  "out": "assets/sprites/sweets/board_frame_dark.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/board_bg_dark.svg",
+  "out": "assets/sprites/sweets/board_bg_dark.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "sweets",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/sweets/ladder_rail_dark.svg",
+  "out": "assets/sprites/sweets/ladder_rail_dark.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/ladder_rung_dark.svg",
+  "out": "assets/sprites/sweets/ladder_rung_dark.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/images/board/board_card_sweets_dark.svg",
+  "out": "assets/images/board/board_card_sweets_dark.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_a_light.svg",
+  "out": "assets/sprites/jungle/tile_a_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_b_light.svg",
+  "out": "assets/sprites/jungle/tile_b_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_start_light.svg",
+  "out": "assets/sprites/jungle/tile_start_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_goal_light.svg",
+  "out": "assets/sprites/jungle/tile_goal_light.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/board_frame_light.svg",
+  "out": "assets/sprites/jungle/board_frame_light.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/board_bg_light.svg",
+  "out": "assets/sprites/jungle/board_bg_light.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "jungle",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/jungle/ladder_rail_light.svg",
+  "out": "assets/sprites/jungle/ladder_rail_light.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/ladder_rung_light.svg",
+  "out": "assets/sprites/jungle/ladder_rung_light.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/images/board/board_card_jungle_light.svg",
+  "out": "assets/images/board/board_card_jungle_light.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_a_dark.svg",
+  "out": "assets/sprites/jungle/tile_a_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_b_dark.svg",
+  "out": "assets/sprites/jungle/tile_b_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_start_dark.svg",
+  "out": "assets/sprites/jungle/tile_start_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/tile_goal_dark.svg",
+  "out": "assets/sprites/jungle/tile_goal_dark.png",
+  "size": [
+   64,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/board_frame_dark.svg",
+  "out": "assets/sprites/jungle/board_frame_dark.png",
+  "size": [
+   192,
+   192
+  ],
+  "nineSlice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/board_bg_dark.svg",
+  "out": "assets/sprites/jungle/board_bg_dark.png",
+  "size": [
+   360,
+   780
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "board",
+  "theme": "jungle",
+  "note": "cover-fit, safe to crop"
+ },
+ {
+  "src": "assets_src/sprites/jungle/ladder_rail_dark.svg",
+  "out": "assets/sprites/jungle/ladder_rail_dark.png",
+  "size": [
+   12,
+   64
+  ],
+  "tile": "vertical",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/ladder_rung_dark.svg",
+  "out": "assets/sprites/jungle/ladder_rung_dark.png",
+  "size": [
+   48,
+   10
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "ladder",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/images/board/board_card_jungle_dark.svg",
+  "out": "assets/images/board/board_card_jungle_dark.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "board_select",
+   "home_tablet"
+  ],
+  "group": "board_card",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/images/board/board_card_locked_light.svg",
+  "out": "assets/images/board/board_card_locked_light.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "board_select"
+  ],
+  "group": "board_card"
+ },
+ {
+  "src": "assets_src/images/board/board_card_locked_dark.svg",
+  "out": "assets/images/board/board_card_locked_dark.png",
+  "size": [
+   240,
+   240
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "board_select"
+  ],
+  "group": "board_card"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_idle_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_gulp1_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_gulp2_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_a_light.svg",
+  "out": "assets/sprites/sunshine/snake_tail_a_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_a_light.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_a_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_idle_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_gulp1_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_gulp2_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_b_light.svg",
+  "out": "assets/sprites/sunshine/snake_tail_b_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_b_light.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_b_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_idle_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_gulp1_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_gulp2_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_c_light.svg",
+  "out": "assets/sprites/sunshine/snake_tail_c_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_c_light.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_c_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_idle_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_gulp1_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_gulp2_light.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_d_light.svg",
+  "out": "assets/sprites/sunshine/snake_tail_d_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_d_light.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_d_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_idle_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_gulp1_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_a_gulp2_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_a_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_a_dark.svg",
+  "out": "assets/sprites/sunshine/snake_tail_a_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_a_dark.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_a_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_idle_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_gulp1_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_b_gulp2_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_b_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_b_dark.svg",
+  "out": "assets/sprites/sunshine/snake_tail_b_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_b_dark.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_b_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_idle_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_gulp1_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_c_gulp2_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_c_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_c_dark.svg",
+  "out": "assets/sprites/sunshine/snake_tail_c_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_c_dark.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_c_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_idle_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_gulp1_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_head_d_gulp2_dark.svg",
+  "out": "assets/sprites/sunshine/snake_head_d_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_tail_d_dark.svg",
+  "out": "assets/sprites/sunshine/snake_tail_d_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sunshine/snake_pattern_d_dark.svg",
+  "out": "assets/sprites/sunshine/snake_pattern_d_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sunshine"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_idle_light.svg",
+  "out": "assets/sprites/sweets/snake_head_a_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_gulp1_light.svg",
+  "out": "assets/sprites/sweets/snake_head_a_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_gulp2_light.svg",
+  "out": "assets/sprites/sweets/snake_head_a_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_a_light.svg",
+  "out": "assets/sprites/sweets/snake_tail_a_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_a_light.svg",
+  "out": "assets/sprites/sweets/snake_pattern_a_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_idle_light.svg",
+  "out": "assets/sprites/sweets/snake_head_b_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_gulp1_light.svg",
+  "out": "assets/sprites/sweets/snake_head_b_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_gulp2_light.svg",
+  "out": "assets/sprites/sweets/snake_head_b_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_b_light.svg",
+  "out": "assets/sprites/sweets/snake_tail_b_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_b_light.svg",
+  "out": "assets/sprites/sweets/snake_pattern_b_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_idle_light.svg",
+  "out": "assets/sprites/sweets/snake_head_c_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_gulp1_light.svg",
+  "out": "assets/sprites/sweets/snake_head_c_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_gulp2_light.svg",
+  "out": "assets/sprites/sweets/snake_head_c_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_c_light.svg",
+  "out": "assets/sprites/sweets/snake_tail_c_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_c_light.svg",
+  "out": "assets/sprites/sweets/snake_pattern_c_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_idle_light.svg",
+  "out": "assets/sprites/sweets/snake_head_d_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_gulp1_light.svg",
+  "out": "assets/sprites/sweets/snake_head_d_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_gulp2_light.svg",
+  "out": "assets/sprites/sweets/snake_head_d_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_d_light.svg",
+  "out": "assets/sprites/sweets/snake_tail_d_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_d_light.svg",
+  "out": "assets/sprites/sweets/snake_pattern_d_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_idle_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_a_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_gulp1_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_a_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_a_gulp2_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_a_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_a_dark.svg",
+  "out": "assets/sprites/sweets/snake_tail_a_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_a_dark.svg",
+  "out": "assets/sprites/sweets/snake_pattern_a_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_idle_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_b_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_gulp1_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_b_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_b_gulp2_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_b_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_b_dark.svg",
+  "out": "assets/sprites/sweets/snake_tail_b_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_b_dark.svg",
+  "out": "assets/sprites/sweets/snake_pattern_b_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_idle_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_c_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_gulp1_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_c_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_c_gulp2_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_c_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_c_dark.svg",
+  "out": "assets/sprites/sweets/snake_tail_c_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_c_dark.svg",
+  "out": "assets/sprites/sweets/snake_pattern_c_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_idle_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_d_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_gulp1_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_d_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_head_d_gulp2_dark.svg",
+  "out": "assets/sprites/sweets/snake_head_d_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_tail_d_dark.svg",
+  "out": "assets/sprites/sweets/snake_tail_d_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/sweets/snake_pattern_d_dark.svg",
+  "out": "assets/sprites/sweets/snake_pattern_d_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "sweets"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_idle_light.svg",
+  "out": "assets/sprites/jungle/snake_head_a_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_gulp1_light.svg",
+  "out": "assets/sprites/jungle/snake_head_a_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_gulp2_light.svg",
+  "out": "assets/sprites/jungle/snake_head_a_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_a_light.svg",
+  "out": "assets/sprites/jungle/snake_tail_a_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_a_light.svg",
+  "out": "assets/sprites/jungle/snake_pattern_a_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_idle_light.svg",
+  "out": "assets/sprites/jungle/snake_head_b_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_gulp1_light.svg",
+  "out": "assets/sprites/jungle/snake_head_b_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_gulp2_light.svg",
+  "out": "assets/sprites/jungle/snake_head_b_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_b_light.svg",
+  "out": "assets/sprites/jungle/snake_tail_b_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_b_light.svg",
+  "out": "assets/sprites/jungle/snake_pattern_b_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_idle_light.svg",
+  "out": "assets/sprites/jungle/snake_head_c_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_gulp1_light.svg",
+  "out": "assets/sprites/jungle/snake_head_c_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_gulp2_light.svg",
+  "out": "assets/sprites/jungle/snake_head_c_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_c_light.svg",
+  "out": "assets/sprites/jungle/snake_tail_c_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_c_light.svg",
+  "out": "assets/sprites/jungle/snake_pattern_c_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_idle_light.svg",
+  "out": "assets/sprites/jungle/snake_head_d_idle_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_gulp1_light.svg",
+  "out": "assets/sprites/jungle/snake_head_d_gulp1_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_gulp2_light.svg",
+  "out": "assets/sprites/jungle/snake_head_d_gulp2_light.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_d_light.svg",
+  "out": "assets/sprites/jungle/snake_tail_d_light.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_d_light.svg",
+  "out": "assets/sprites/jungle/snake_pattern_d_light.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_idle_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_a_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_gulp1_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_a_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_a_gulp2_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_a_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_a_dark.svg",
+  "out": "assets/sprites/jungle/snake_tail_a_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_a_dark.svg",
+  "out": "assets/sprites/jungle/snake_pattern_a_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_idle_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_b_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_gulp1_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_b_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_b_gulp2_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_b_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_b_dark.svg",
+  "out": "assets/sprites/jungle/snake_tail_b_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_b_dark.svg",
+  "out": "assets/sprites/jungle/snake_pattern_b_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_idle_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_c_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_gulp1_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_c_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_c_gulp2_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_c_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_c_dark.svg",
+  "out": "assets/sprites/jungle/snake_tail_c_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_c_dark.svg",
+  "out": "assets/sprites/jungle/snake_pattern_c_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_idle_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_d_idle_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_gulp1_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_d_gulp1_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_head_d_gulp2_dark.svg",
+  "out": "assets/sprites/jungle/snake_head_d_gulp2_dark.png",
+  "size": [
+   48,
+   36
+  ],
+  "anchor": [
+   0.125,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle",
+  "note": "faces right; anchor is the neck joint"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_tail_d_dark.svg",
+  "out": "assets/sprites/jungle/snake_tail_d_dark.png",
+  "size": [
+   32,
+   24
+  ],
+  "anchor": [
+   0,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/sprites/jungle/snake_pattern_d_dark.svg",
+  "out": "assets/sprites/jungle/snake_pattern_d_dark.png",
+  "size": [
+   64,
+   16
+  ],
+  "tile": "horizontal",
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "snake",
+  "theme": "jungle"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_idle_light.svg",
+  "out": "assets/images/tokens/token_red_idle_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_idle_dark.svg",
+  "out": "assets/images/tokens/token_red_idle_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_active_light.svg",
+  "out": "assets/images/tokens/token_red_active_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_active_dark.svg",
+  "out": "assets/images/tokens/token_red_active_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_hop_light.svg",
+  "out": "assets/images/tokens/token_red_hop_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_red_hop_dark.svg",
+  "out": "assets/images/tokens/token_red_hop_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_idle_light.svg",
+  "out": "assets/images/tokens/token_blue_idle_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_idle_dark.svg",
+  "out": "assets/images/tokens/token_blue_idle_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_active_light.svg",
+  "out": "assets/images/tokens/token_blue_active_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_active_dark.svg",
+  "out": "assets/images/tokens/token_blue_active_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_hop_light.svg",
+  "out": "assets/images/tokens/token_blue_hop_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_blue_hop_dark.svg",
+  "out": "assets/images/tokens/token_blue_hop_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_idle_light.svg",
+  "out": "assets/images/tokens/token_green_idle_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_idle_dark.svg",
+  "out": "assets/images/tokens/token_green_idle_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_active_light.svg",
+  "out": "assets/images/tokens/token_green_active_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_active_dark.svg",
+  "out": "assets/images/tokens/token_green_active_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_hop_light.svg",
+  "out": "assets/images/tokens/token_green_hop_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_green_hop_dark.svg",
+  "out": "assets/images/tokens/token_green_hop_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_idle_light.svg",
+  "out": "assets/images/tokens/token_yellow_idle_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_idle_dark.svg",
+  "out": "assets/images/tokens/token_yellow_idle_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_active_light.svg",
+  "out": "assets/images/tokens/token_yellow_active_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_active_dark.svg",
+  "out": "assets/images/tokens/token_yellow_active_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_hop_light.svg",
+  "out": "assets/images/tokens/token_yellow_hop_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_yellow_hop_dark.svg",
+  "out": "assets/images/tokens/token_yellow_hop_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.92
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win",
+   "how_to_play"
+  ],
+  "group": "token"
+ },
+ {
+  "src": "assets_src/images/tokens/token_shadow.svg",
+  "out": "assets/images/tokens/token_shadow.png",
+  "size": [
+   48,
+   16
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light",
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "token",
+  "note": "shared: a shadow reads on both modes"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_01_light.svg",
+  "out": "assets/images/tokens/avatar_01_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "fox"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_01_dark.svg",
+  "out": "assets/images/tokens/avatar_01_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "fox"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_02_light.svg",
+  "out": "assets/images/tokens/avatar_02_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "panda"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_02_dark.svg",
+  "out": "assets/images/tokens/avatar_02_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "panda"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_03_light.svg",
+  "out": "assets/images/tokens/avatar_03_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "frog"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_03_dark.svg",
+  "out": "assets/images/tokens/avatar_03_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "frog"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_04_light.svg",
+  "out": "assets/images/tokens/avatar_04_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "cat"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_04_dark.svg",
+  "out": "assets/images/tokens/avatar_04_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "cat"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_05_light.svg",
+  "out": "assets/images/tokens/avatar_05_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "owl"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_05_dark.svg",
+  "out": "assets/images/tokens/avatar_05_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "owl"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_06_light.svg",
+  "out": "assets/images/tokens/avatar_06_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "bunny"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_06_dark.svg",
+  "out": "assets/images/tokens/avatar_06_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "bunny"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_07_light.svg",
+  "out": "assets/images/tokens/avatar_07_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "bear"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_07_dark.svg",
+  "out": "assets/images/tokens/avatar_07_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "bear"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_08_light.svg",
+  "out": "assets/images/tokens/avatar_08_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "penguin"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_08_dark.svg",
+  "out": "assets/images/tokens/avatar_08_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "penguin"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_09_light.svg",
+  "out": "assets/images/tokens/avatar_09_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "lion"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_09_dark.svg",
+  "out": "assets/images/tokens/avatar_09_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "lion"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_10_light.svg",
+  "out": "assets/images/tokens/avatar_10_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "koala"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_10_dark.svg",
+  "out": "assets/images/tokens/avatar_10_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "koala"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_11_light.svg",
+  "out": "assets/images/tokens/avatar_11_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "duck"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_11_dark.svg",
+  "out": "assets/images/tokens/avatar_11_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "duck"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_12_light.svg",
+  "out": "assets/images/tokens/avatar_12_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "pig"
+ },
+ {
+  "src": "assets_src/images/tokens/avatar_12_dark.svg",
+  "out": "assets/images/tokens/avatar_12_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "player_setup",
+   "win"
+  ],
+  "group": "avatar",
+  "animal": "pig"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_1_light.svg",
+  "out": "assets/images/dice/dice_face_1_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_2_light.svg",
+  "out": "assets/images/dice/dice_face_2_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_3_light.svg",
+  "out": "assets/images/dice/dice_face_3_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_4_light.svg",
+  "out": "assets/images/dice/dice_face_4_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_5_light.svg",
+  "out": "assets/images/dice/dice_face_5_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_6_light.svg",
+  "out": "assets/images/dice/dice_face_6_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_01_light.svg",
+  "out": "assets/images/dice/dice_roll_01_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_02_light.svg",
+  "out": "assets/images/dice/dice_roll_02_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_03_light.svg",
+  "out": "assets/images/dice/dice_roll_03_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_04_light.svg",
+  "out": "assets/images/dice/dice_roll_04_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_05_light.svg",
+  "out": "assets/images/dice/dice_roll_05_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_06_light.svg",
+  "out": "assets/images/dice/dice_roll_06_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_07_light.svg",
+  "out": "assets/images/dice/dice_roll_07_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_08_light.svg",
+  "out": "assets/images/dice/dice_roll_08_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_button_bg_normal_light.svg",
+  "out": "assets/images/dice/dice_button_bg_normal_light.png",
+  "size": [
+   160,
+   166
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_button_bg_pressed_light.svg",
+  "out": "assets/images/dice/dice_button_bg_pressed_light.png",
+  "size": [
+   160,
+   166
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_1_dark.svg",
+  "out": "assets/images/dice/dice_face_1_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_2_dark.svg",
+  "out": "assets/images/dice/dice_face_2_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_3_dark.svg",
+  "out": "assets/images/dice/dice_face_3_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_4_dark.svg",
+  "out": "assets/images/dice/dice_face_4_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_5_dark.svg",
+  "out": "assets/images/dice/dice_face_5_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_face_6_dark.svg",
+  "out": "assets/images/dice/dice_face_6_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "how_to_play"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_01_dark.svg",
+  "out": "assets/images/dice/dice_roll_01_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_02_dark.svg",
+  "out": "assets/images/dice/dice_roll_02_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_03_dark.svg",
+  "out": "assets/images/dice/dice_roll_03_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_04_dark.svg",
+  "out": "assets/images/dice/dice_roll_04_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_05_dark.svg",
+  "out": "assets/images/dice/dice_roll_05_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_06_dark.svg",
+  "out": "assets/images/dice/dice_roll_06_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_07_dark.svg",
+  "out": "assets/images/dice/dice_roll_07_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_roll_08_dark.svg",
+  "out": "assets/images/dice/dice_roll_08_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "frameMs": 88
+ },
+ {
+  "src": "assets_src/images/dice/dice_button_bg_normal_dark.svg",
+  "out": "assets/images/dice/dice_button_bg_normal_dark.png",
+  "size": [
+   160,
+   166
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_button_bg_pressed_dark.svg",
+  "out": "assets/images/dice/dice_button_bg_pressed_dark.png",
+  "size": [
+   160,
+   166
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice"
+ },
+ {
+  "src": "assets_src/images/dice/dice_shadow.svg",
+  "out": "assets/images/dice/dice_shadow.png",
+  "size": [
+   128,
+   32
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light",
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "dice",
+  "note": "shared: a shadow reads on both modes"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_normal_light.svg",
+  "out": "assets/images/ui/button_primary_normal_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_pressed_light.svg",
+  "out": "assets/images/ui/button_primary_pressed_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_disabled_light.svg",
+  "out": "assets/images/ui/button_primary_disabled_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_normal_light.svg",
+  "out": "assets/images/ui/button_secondary_normal_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_pressed_light.svg",
+  "out": "assets/images/ui/button_secondary_pressed_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_disabled_light.svg",
+  "out": "assets/images/ui/button_secondary_disabled_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_normal_light.svg",
+  "out": "assets/images/ui/button_danger_normal_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_pressed_light.svg",
+  "out": "assets/images/ui/button_danger_pressed_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_disabled_light.svg",
+  "out": "assets/images/ui/button_danger_disabled_light.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_normal_light.svg",
+  "out": "assets/images/ui/button_icon_normal_light.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_pressed_light.svg",
+  "out": "assets/images/ui/button_icon_pressed_light.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_disabled_light.svg",
+  "out": "assets/images/ui/button_icon_disabled_light.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/panel_card_light.svg",
+  "out": "assets/images/ui/panel_card_light.png",
+  "size": [
+   96,
+   96
+  ],
+  "nineSlice": [
+   28,
+   28,
+   28,
+   28
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_sheet_light.svg",
+  "out": "assets/images/ui/panel_sheet_light.png",
+  "size": [
+   128,
+   96
+  ],
+  "nineSlice": [
+   40,
+   40,
+   40,
+   2
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_dialog_light.svg",
+  "out": "assets/images/ui/panel_dialog_light.png",
+  "size": [
+   128,
+   128
+  ],
+  "nineSlice": [
+   36,
+   36,
+   36,
+   36
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_toast_light.svg",
+  "out": "assets/images/ui/panel_toast_light.png",
+  "size": [
+   160,
+   48
+  ],
+  "nineSlice": [
+   24,
+   22,
+   24,
+   22
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_turn_banner_light.svg",
+  "out": "assets/images/ui/panel_turn_banner_light.png",
+  "size": [
+   320,
+   72
+  ],
+  "nineSlice": [
+   64,
+   20,
+   64,
+   20
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/badge_extra_roll_light.svg",
+  "out": "assets/images/ui/badge_extra_roll_light.png",
+  "size": [
+   192,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_ladder_light.svg",
+  "out": "assets/images/ui/badge_ladder_light.png",
+  "size": [
+   156,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_oops_light.svg",
+  "out": "assets/images/ui/badge_oops_light.png",
+  "size": [
+   128,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_winner_light.svg",
+  "out": "assets/images/ui/badge_winner_light.png",
+  "size": [
+   151,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_normal_dark.svg",
+  "out": "assets/images/ui/button_primary_normal_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_pressed_dark.svg",
+  "out": "assets/images/ui/button_primary_pressed_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_primary_disabled_dark.svg",
+  "out": "assets/images/ui/button_primary_disabled_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_normal_dark.svg",
+  "out": "assets/images/ui/button_secondary_normal_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#F2F3F7"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_pressed_dark.svg",
+  "out": "assets/images/ui/button_secondary_pressed_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#F2F3F7"
+ },
+ {
+  "src": "assets_src/images/ui/button_secondary_disabled_dark.svg",
+  "out": "assets/images/ui/button_secondary_disabled_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#F2F3F7"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_normal_dark.svg",
+  "out": "assets/images/ui/button_danger_normal_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_pressed_dark.svg",
+  "out": "assets/images/ui/button_danger_pressed_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_danger_disabled_dark.svg",
+  "out": "assets/images/ui/button_danger_disabled_dark.png",
+  "size": [
+   96,
+   60
+  ],
+  "nineSlice": [
+   24,
+   20,
+   24,
+   26
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button",
+  "labelColor": "#2A2A35"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_normal_dark.svg",
+  "out": "assets/images/ui/button_icon_normal_dark.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_pressed_dark.svg",
+  "out": "assets/images/ui/button_icon_pressed_dark.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/button_icon_disabled_dark.svg",
+  "out": "assets/images/ui/button_icon_disabled_dark.png",
+  "size": [
+   56,
+   60
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "button"
+ },
+ {
+  "src": "assets_src/images/ui/panel_card_dark.svg",
+  "out": "assets/images/ui/panel_card_dark.png",
+  "size": [
+   96,
+   96
+  ],
+  "nineSlice": [
+   28,
+   28,
+   28,
+   28
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_sheet_dark.svg",
+  "out": "assets/images/ui/panel_sheet_dark.png",
+  "size": [
+   128,
+   96
+  ],
+  "nineSlice": [
+   40,
+   40,
+   40,
+   2
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_dialog_dark.svg",
+  "out": "assets/images/ui/panel_dialog_dark.png",
+  "size": [
+   128,
+   128
+  ],
+  "nineSlice": [
+   36,
+   36,
+   36,
+   36
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_toast_dark.svg",
+  "out": "assets/images/ui/panel_toast_dark.png",
+  "size": [
+   160,
+   48
+  ],
+  "nineSlice": [
+   24,
+   22,
+   24,
+   22
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/panel_turn_banner_dark.svg",
+  "out": "assets/images/ui/panel_turn_banner_dark.png",
+  "size": [
+   320,
+   72
+  ],
+  "nineSlice": [
+   64,
+   20,
+   64,
+   20
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "panel"
+ },
+ {
+  "src": "assets_src/images/ui/badge_extra_roll_dark.svg",
+  "out": "assets/images/ui/badge_extra_roll_dark.png",
+  "size": [
+   192,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_ladder_dark.svg",
+  "out": "assets/images/ui/badge_ladder_dark.png",
+  "size": [
+   156,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_oops_dark.svg",
+  "out": "assets/images/ui/badge_oops_dark.png",
+  "size": [
+   128,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": "assets_src/images/ui/badge_winner_dark.svg",
+  "out": "assets/images/ui/badge_winner_dark.png",
+  "size": [
+   151,
+   64
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "badge"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_play.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_pause.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_settings.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_home.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_restart.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_sound_on.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_sound_off.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_music_on.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_music_off.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_haptics.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_info.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_stats.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_lock.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_trophy.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_back.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_close.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_check.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_bot.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_human.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_crown.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_snake.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": null,
+  "out": "assets/icons/ic_chevron.svg",
+  "size": [
+   24,
+   24
+  ],
+  "modes": [
+   "tinted"
+  ],
+  "screens": [
+   "all"
+  ],
+  "group": "icon"
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_red_light.svg",
+  "out": "assets/images/fx/confetti_rect_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_blue_light.svg",
+  "out": "assets/images/fx/confetti_rect_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_green_light.svg",
+  "out": "assets/images/fx/confetti_rect_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_yellow_light.svg",
+  "out": "assets/images/fx/confetti_rect_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_red_light.svg",
+  "out": "assets/images/fx/confetti_circle_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_blue_light.svg",
+  "out": "assets/images/fx/confetti_circle_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_green_light.svg",
+  "out": "assets/images/fx/confetti_circle_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_yellow_light.svg",
+  "out": "assets/images/fx/confetti_circle_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_red_light.svg",
+  "out": "assets/images/fx/confetti_triangle_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_blue_light.svg",
+  "out": "assets/images/fx/confetti_triangle_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_green_light.svg",
+  "out": "assets/images/fx/confetti_triangle_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_yellow_light.svg",
+  "out": "assets/images/fx/confetti_triangle_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_red_light.svg",
+  "out": "assets/images/fx/confetti_star_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_blue_light.svg",
+  "out": "assets/images/fx/confetti_star_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_green_light.svg",
+  "out": "assets/images/fx/confetti_star_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_yellow_light.svg",
+  "out": "assets/images/fx/confetti_star_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_red_light.svg",
+  "out": "assets/images/fx/confetti_squiggle_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_blue_light.svg",
+  "out": "assets/images/fx/confetti_squiggle_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_green_light.svg",
+  "out": "assets/images/fx/confetti_squiggle_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_yellow_light.svg",
+  "out": "assets/images/fx/confetti_squiggle_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_red_light.svg",
+  "out": "assets/images/fx/confetti_curl_red_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_blue_light.svg",
+  "out": "assets/images/fx/confetti_curl_blue_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_green_light.svg",
+  "out": "assets/images/fx/confetti_curl_green_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_yellow_light.svg",
+  "out": "assets/images/fx/confetti_curl_yellow_light.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/sparkle_burst_light.svg",
+  "out": "assets/images/fx/sparkle_burst_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/fx/dust_puff_light.svg",
+  "out": "assets/images/fx/dust_puff_light.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.85
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/fx/star_light.svg",
+  "out": "assets/images/fx/star_light.png",
+  "size": [
+   32,
+   32
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "win",
+   "stats"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_1_light.svg",
+  "out": "assets/images/ui/how_to_1_light.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_2_light.svg",
+  "out": "assets/images/ui/how_to_2_light.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_3_light.svg",
+  "out": "assets/images/ui/how_to_3_light.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_4_light.svg",
+  "out": "assets/images/ui/how_to_4_light.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_5_light.svg",
+  "out": "assets/images/ui/how_to_5_light.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/brand/logo_lockup_light.svg",
+  "out": "assets/images/brand/logo_lockup_light.png",
+  "size": [
+   600,
+   240
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "splash",
+   "home"
+  ],
+  "group": "brand"
+ },
+ {
+  "src": "assets_src/images/brand/logo_wordmark_light.svg",
+  "out": "assets/images/brand/logo_wordmark_light.png",
+  "size": [
+   600,
+   130
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "home"
+  ],
+  "group": "brand"
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_red_dark.svg",
+  "out": "assets/images/fx/confetti_rect_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_blue_dark.svg",
+  "out": "assets/images/fx/confetti_rect_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_green_dark.svg",
+  "out": "assets/images/fx/confetti_rect_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_rect_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_rect_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 0
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_red_dark.svg",
+  "out": "assets/images/fx/confetti_circle_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_blue_dark.svg",
+  "out": "assets/images/fx/confetti_circle_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_green_dark.svg",
+  "out": "assets/images/fx/confetti_circle_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_circle_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_circle_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 1
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_red_dark.svg",
+  "out": "assets/images/fx/confetti_triangle_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_blue_dark.svg",
+  "out": "assets/images/fx/confetti_triangle_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_green_dark.svg",
+  "out": "assets/images/fx/confetti_triangle_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_triangle_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_triangle_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 2
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_red_dark.svg",
+  "out": "assets/images/fx/confetti_star_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_blue_dark.svg",
+  "out": "assets/images/fx/confetti_star_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_green_dark.svg",
+  "out": "assets/images/fx/confetti_star_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_star_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_star_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 3
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_red_dark.svg",
+  "out": "assets/images/fx/confetti_squiggle_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_blue_dark.svg",
+  "out": "assets/images/fx/confetti_squiggle_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_green_dark.svg",
+  "out": "assets/images/fx/confetti_squiggle_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_squiggle_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_squiggle_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 4
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_red_dark.svg",
+  "out": "assets/images/fx/confetti_curl_red_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_blue_dark.svg",
+  "out": "assets/images/fx/confetti_curl_blue_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_green_dark.svg",
+  "out": "assets/images/fx/confetti_curl_green_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/confetti_curl_yellow_dark.svg",
+  "out": "assets/images/fx/confetti_curl_yellow_dark.png",
+  "size": [
+   12,
+   12
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win"
+  ],
+  "group": "fx",
+  "index": 5
+ },
+ {
+  "src": "assets_src/images/fx/sparkle_burst_dark.svg",
+  "out": "assets/images/fx/sparkle_burst_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game",
+   "win"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/fx/dust_puff_dark.svg",
+  "out": "assets/images/fx/dust_puff_dark.png",
+  "size": [
+   48,
+   48
+  ],
+  "anchor": [
+   0.5,
+   0.85
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "game"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/fx/star_dark.svg",
+  "out": "assets/images/fx/star_dark.png",
+  "size": [
+   32,
+   32
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "win",
+   "stats"
+  ],
+  "group": "fx"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_1_dark.svg",
+  "out": "assets/images/ui/how_to_1_dark.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_2_dark.svg",
+  "out": "assets/images/ui/how_to_2_dark.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_3_dark.svg",
+  "out": "assets/images/ui/how_to_3_dark.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_4_dark.svg",
+  "out": "assets/images/ui/how_to_4_dark.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/ui/how_to_5_dark.svg",
+  "out": "assets/images/ui/how_to_5_dark.png",
+  "size": [
+   300,
+   220
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "how_to_play"
+  ],
+  "group": "how_to"
+ },
+ {
+  "src": "assets_src/images/brand/logo_lockup_dark.svg",
+  "out": "assets/images/brand/logo_lockup_dark.png",
+  "size": [
+   600,
+   240
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "splash",
+   "home"
+  ],
+  "group": "brand"
+ },
+ {
+  "src": "assets_src/images/brand/logo_wordmark_dark.svg",
+  "out": "assets/images/brand/logo_wordmark_dark.png",
+  "size": [
+   600,
+   130
+  ],
+  "anchor": [
+   0.5,
+   0.5
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "home"
+  ],
+  "group": "brand"
+ },
+ {
+  "src": "assets_src/launcher/app_icon_1024.svg",
+  "out": "assets/launcher/app_icon_1024.png",
+  "size": [
+   1024,
+   1024
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "launcher"
+  ],
+  "group": "brand",
+  "single": true,
+  "bundled": false
+ },
+ {
+  "src": "assets_src/launcher/app_icon_foreground.svg",
+  "out": "assets/launcher/app_icon_foreground.png",
+  "size": [
+   432,
+   432
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "launcher"
+  ],
+  "group": "brand",
+  "single": true,
+  "bundled": false,
+  "note": "content inside the 66% safe zone"
+ },
+ {
+  "src": "assets_src/launcher/app_icon_background.svg",
+  "out": "assets/launcher/app_icon_background.png",
+  "size": [
+   432,
+   432
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "launcher"
+  ],
+  "group": "brand",
+  "single": true,
+  "bundled": false
+ },
+ {
+  "src": "assets_src/launcher/splash_image_light.svg",
+  "out": "assets/launcher/splash_image_light.png",
+  "size": [
+   768,
+   768
+  ],
+  "modes": [
+   "light"
+  ],
+  "screens": [
+   "native_splash"
+  ],
+  "group": "brand",
+  "single": true,
+  "bundled": false,
+  "background": "#FFF6E3"
+ },
+ {
+  "src": "assets_src/launcher/splash_image_dark.svg",
+  "out": "assets/launcher/splash_image_dark.png",
+  "size": [
+   768,
+   768
+  ],
+  "modes": [
+   "dark"
+  ],
+  "screens": [
+   "native_splash"
+  ],
+  "group": "brand",
+  "single": true,
+  "bundled": false,
+  "background": "#14161F"
+ }
+]

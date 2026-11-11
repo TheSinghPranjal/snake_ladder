@@ -1,0 +1,9 @@
+{
+  "name": "snake-saga-asset-tools",
+  "private": true,
+  "type": "module",
+  "description": "Generates SVG art sources for Snake Saga. Run: npm install, then node build_art.mjs",
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}

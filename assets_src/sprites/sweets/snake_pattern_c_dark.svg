@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="16" viewBox="0 0 64 16">
+<title>sweets snake pattern c dark</title>
+<defs>
+<clipPath id="strip"><rect width="64" height="16"/></clipPath>
+</defs>
+<g id="pattern">
+<g clip-path="url(#strip)"><path d="M0 2.5L6 8L0 13.5L-6 8Z" fill="#FFF6DE"/><path d="M21.33 2.5L27.33 8L21.33 13.5L15.33 8Z" fill="#FFF6DE"/><path d="M42.67 2.5L48.67 8L42.67 13.5L36.67 8Z" fill="#FFF6DE"/><path d="M64 2.5L70 8L64 13.5L58 8Z" fill="#FFF6DE"/></g>
+</g>
+</svg>

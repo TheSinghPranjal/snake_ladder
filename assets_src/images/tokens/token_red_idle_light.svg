@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+<title>red token idle light</title>
+<defs>
+<filter id="t-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.4"/></filter>
+</defs>
+<g id="pawn" transform="translate(24 45) scale(1 1) translate(-24 -45)">
+<ellipse cx="24" cy="40" rx="15" ry="5.5" fill="#C01B12" stroke="#5C0E0A" stroke-width="2"/><path d="M11 39C11 30 16 26 18 22H30C32 26 37 30 37 39Z" fill="#E8453C" stroke="#5C0E0A" stroke-width="2" stroke-linejoin="round"/><path d="M24 22H30C32 26 37 30 37 39H27C28 32 26 26 24 22Z" fill="#C01B12" fill-opacity="0.55"/><circle cx="24" cy="15" r="10" fill="#E8453C" stroke="#5C0E0A" stroke-width="2"/><path d="M24 5A10 10 0 0 1 33.5 18A10 10 0 0 0 24 12Z" fill="#C01B12" fill-opacity="0.45"/><ellipse cx="20.5" cy="11" rx="3.6" ry="2.4" fill="#FFFFFF" fill-opacity="0.65" transform="rotate(-30 20.5 11)"/><g fill="#F9D0CE" stroke="#5C0E0A" stroke-width="1.4"><path d="M24 27.18L25.25 30.28L28.58 30.51L26.02 32.66L26.83 35.9L24 34.13L21.17 35.9L21.98 32.66L19.42 30.51L22.75 30.28Z" stroke-linejoin="round"/></g>
+</g>
+</svg>

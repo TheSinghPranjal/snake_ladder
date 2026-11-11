@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+<title>sparkle light</title>
+<g id="sparkle">
+<path d="M33 24L47 24" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M31.07 31.07L36.73 36.73" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M24 33L24 47" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M16.93 31.07L11.27 36.73" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M15 24L1 24" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M16.93 16.93L11.27 11.27" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M24 15L24 1" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M31.07 16.93L36.73 11.27" stroke="#FFC93C" stroke-width="3" stroke-linecap="round"/><path d="M24 14l2.6 7.4 7.4 2.6-7.4 2.6-2.6 7.4-2.6-7.4-7.4-2.6 7.4-2.6z" fill="#FFFFFF" stroke="#FFC93C" stroke-width="1.6" stroke-linejoin="round"/>
+</g>
+</svg>

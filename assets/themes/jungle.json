@@ -1,0 +1,109 @@
+{
+  "id": "jungle",
+  "name": "Jungle Temple",
+  "geometry": {
+    "snakeHeadWidth": 0.32,
+    "snakeTailWidth": 0.12,
+    "snakeOpacity": 0.88,
+    "ladderRailOffset": 0.18,
+    "ladderRungSpacing": 0.45,
+    "ladderRailWidth": 0.07,
+    "ladderRungWidth": 0.05,
+    "numberFontSize": 0.3,
+    "numberHaloBlur": 0.06
+  },
+  "light": {
+    "background": [
+      "#E4F0D2",
+      "#9CC28A"
+    ],
+    "tileA": "#DCD3BC",
+    "tileB": "#B9C6A0",
+    "frame": "#8C7B5E",
+    "frameOutline": "#3F3524",
+    "number": "#2A2A35",
+    "numberHalo": "#F6F2E6",
+    "ladderRail": "#6E8B2E",
+    "ladderRung": "#C9B567",
+    "ladderOutline": "#2F3F10",
+    "glow": null,
+    "startPad": "#F6F2E6",
+    "snakes": {
+      "a": {
+        "base": "#43A047",
+        "pattern": "#1B5E20",
+        "belly": "#C8E6C9",
+        "outline": "#1B4B1D"
+      },
+      "b": {
+        "base": "#C49A5A",
+        "pattern": "#6D4C2A",
+        "belly": "#EBD9B8",
+        "outline": "#4E3918"
+      },
+      "c": {
+        "base": "#2FA3B5",
+        "pattern": "#0F5560",
+        "belly": "#BDE6EC",
+        "outline": "#134A53"
+      },
+      "d": {
+        "base": "#E0703A",
+        "pattern": "#2A2A35",
+        "belly": "#F8D2BC",
+        "outline": "#5A260C"
+      }
+    }
+  },
+  "dark": {
+    "background": [
+      "#18261A",
+      "#0B140D"
+    ],
+    "tileA": "#2E3328",
+    "tileB": "#3B4A35",
+    "frame": "#5E5440",
+    "frameOutline": "#1C180F",
+    "number": "#F1F5E6",
+    "numberHalo": "#0A0F08",
+    "ladderRail": "#9BC46A",
+    "ladderRung": "#D9C98A",
+    "ladderOutline": "#E9F5D6",
+    "glow": "#C5E1A5",
+    "startPad": "#272B3D",
+    "snakes": {
+      "a": {
+        "base": "#5CBF60",
+        "pattern": "#1E6B23",
+        "belly": "#D3EDD4",
+        "outline": "#CAEACB"
+      },
+      "b": {
+        "base": "#D4AC6C",
+        "pattern": "#6D4C2A",
+        "belly": "#F1E2C6",
+        "outline": "#F7EFE2"
+      },
+      "c": {
+        "base": "#43B8CA",
+        "pattern": "#0F5560",
+        "belly": "#CBEEF3",
+        "outline": "#BAE5EC"
+      },
+      "d": {
+        "base": "#EE8550",
+        "pattern": "#2A2A35",
+        "belly": "#FADDCB",
+        "outline": "#FCE6DB"
+      }
+    }
+  },
+  "shadow": {
+    "offset": [
+      0.05,
+      0.07
+    ],
+    "opacity": 0.18,
+    "blur": 0.04
+  }
+}

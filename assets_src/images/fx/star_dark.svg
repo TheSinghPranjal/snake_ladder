@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>star dark</title>
+<g id="star">
+<path d="M16 2.5l3.9 8.1 8.9 1.2-6.5 6.2 1.6 8.8L16 22.6l-7.9 4.2 1.6-8.8L3.2 11.8l8.9-1.2z" fill="#FFC93C" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/><path d="M12.5 11.5l2-3" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+</g>
+</svg>

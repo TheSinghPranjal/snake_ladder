@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="16" viewBox="0 0 64 16">
+<title>jungle snake pattern b light</title>
+<defs>
+<clipPath id="strip"><rect width="64" height="16"/></clipPath>
+</defs>
+<g id="pattern">
+<g clip-path="url(#strip)"><path d="M-4 16L4 0" stroke="#6D4C2A" stroke-width="5" stroke-linecap="butt"/><path d="M12 16L20 0" stroke="#6D4C2A" stroke-width="5" stroke-linecap="butt"/><path d="M28 16L36 0" stroke="#6D4C2A" stroke-width="5" stroke-linecap="butt"/><path d="M44 16L52 0" stroke="#6D4C2A" stroke-width="5" stroke-linecap="butt"/><path d="M60 16L68 0" stroke="#6D4C2A" stroke-width="5" stroke-linecap="butt"/></g>
+</g>
+</svg>

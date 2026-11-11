@@ -1,0 +1,109 @@
+{
+  "id": "sweets",
+  "name": "Sugar Rush",
+  "geometry": {
+    "snakeHeadWidth": 0.32,
+    "snakeTailWidth": 0.12,
+    "snakeOpacity": 0.88,
+    "ladderRailOffset": 0.18,
+    "ladderRungSpacing": 0.45,
+    "ladderRailWidth": 0.07,
+    "ladderRungWidth": 0.05,
+    "numberFontSize": 0.3,
+    "numberHaloBlur": 0.06
+  },
+  "light": {
+    "background": [
+      "#FFF0F6",
+      "#E3F4FF"
+    ],
+    "tileA": "#FFE4EF",
+    "tileB": "#D6EEFF",
+    "frame": "#FF8FB8",
+    "frameOutline": "#A83A66",
+    "number": "#2A2A35",
+    "numberHalo": "#FFFFFF",
+    "ladderRail": "#E8453C",
+    "ladderRung": "#F27A73",
+    "ladderOutline": "#8A1F19",
+    "glow": null,
+    "startPad": "#FFFFFF",
+    "snakes": {
+      "a": {
+        "base": "#FF6FA5",
+        "pattern": "#FFFFFF",
+        "belly": "#FFD3E4",
+        "outline": "#660026"
+      },
+      "b": {
+        "base": "#4FD1B0",
+        "pattern": "#FFFFFF",
+        "belly": "#CFF5EA",
+        "outline": "#135343"
+      },
+      "c": {
+        "base": "#FFB938",
+        "pattern": "#FFF3D1",
+        "belly": "#FFE6B0",
+        "outline": "#664200"
+      },
+      "d": {
+        "base": "#A77BFF",
+        "pattern": "#FFFFFF",
+        "belly": "#E3D6FF",
+        "outline": "#220066"
+      }
+    }
+  },
+  "dark": {
+    "background": [
+      "#24142E",
+      "#120B1A"
+    ],
+    "tileA": "#2B1E3A",
+    "tileB": "#1C2D3F",
+    "frame": "#C9578A",
+    "frameOutline": "#5A1834",
+    "number": "#FFF0F6",
+    "numberHalo": "#0E0814",
+    "ladderRail": "#FF7A72",
+    "ladderRung": "#FFA39D",
+    "ladderOutline": "#FFE0DD",
+    "glow": "#FFD3E4",
+    "startPad": "#272B3D",
+    "snakes": {
+      "a": {
+        "base": "#FF85B3",
+        "pattern": "#FFE6F0",
+        "belly": "#FFD9E8",
+        "outline": "#FFFFFF"
+      },
+      "b": {
+        "base": "#62DDBE",
+        "pattern": "#E8FFF8",
+        "belly": "#D6F7EE",
+        "outline": "#E0F8F2"
+      },
+      "c": {
+        "base": "#FFC24F",
+        "pattern": "#FFF6DE",
+        "belly": "#FFE9BF",
+        "outline": "#FFF7E8"
+      },
+      "d": {
+        "base": "#B592FF",
+        "pattern": "#F1EAFF",
+        "belly": "#E7DCFF",
+        "outline": "#FFFFFF"
+      }
+    }
+  },
+  "shadow": {
+    "offset": [
+      0.05,
+      0.07
+    ],
+    "opacity": 0.18,
+    "blur": 0.04
+  }
+}

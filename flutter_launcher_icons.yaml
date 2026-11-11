@@ -1,0 +1,9 @@
+# Generate with: dart run flutter_launcher_icons  (package added in Phase 4)
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/launcher/app_icon_1024.png
+  adaptive_icon_background: assets/launcher/app_icon_background.png
+  adaptive_icon_foreground: assets/launcher/app_icon_foreground.png
+  min_sdk_android: 24

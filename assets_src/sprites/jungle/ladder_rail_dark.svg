@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="64" viewBox="0 0 12 64">
+<title>jungle ladder rail dark</title>
+<defs>
+<clipPath id="rail"><rect width="12" height="64"/></clipPath>
+</defs>
+<g id="rail">
+<path d="M6 0C11 8 11 8 6 16C1 24 1 24 6 32C11 40 11 40 6 48C1 56 1 56 6 64" fill="none" stroke="#E9F5D6" stroke-width="6"/><path d="M6 0C11 8 11 8 6 16C1 24 1 24 6 32C11 40 11 40 6 48C1 56 1 56 6 64" fill="none" stroke="#9BC46A" stroke-width="3.4"/><path d="M6 0C1 8 1 8 6 16C11 24 11 24 6 32C1 40 1 40 6 48C11 56 11 56 6 64" fill="none" stroke="#E9F5D6" stroke-width="6"/><path d="M6 0C1 8 1 8 6 16C11 24 11 24 6 32C1 40 1 40 6 48C11 56 11 56 6 64" fill="none" stroke="#B4D28F" stroke-width="3.4"/><path d="M9 24q6 -3 5 4q-5 1 -5 -4z" fill="#3FA34D" stroke="#E9F5D6" stroke-width="1"/>
+</g>
+</svg>

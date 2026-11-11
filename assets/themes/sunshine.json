@@ -1,0 +1,109 @@
+{
+  "id": "sunshine",
+  "name": "Classic Sunshine",
+  "geometry": {
+    "snakeHeadWidth": 0.32,
+    "snakeTailWidth": 0.12,
+    "snakeOpacity": 0.88,
+    "ladderRailOffset": 0.18,
+    "ladderRungSpacing": 0.45,
+    "ladderRailWidth": 0.07,
+    "ladderRungWidth": 0.05,
+    "numberFontSize": 0.3,
+    "numberHaloBlur": 0.06
+  },
+  "light": {
+    "background": [
+      "#FFF6D6",
+      "#FFE18A"
+    ],
+    "tileA": "#FFF59D",
+    "tileB": "#F9C440",
+    "frame": "#F5C518",
+    "frameOutline": "#9C7A0C",
+    "number": "#2A2A35",
+    "numberHalo": "#FFFDF0",
+    "ladderRail": "#3D8BE0",
+    "ladderRung": "#6AA9EE",
+    "ladderOutline": "#1B4F8F",
+    "glow": null,
+    "startPad": "#FFFFFF",
+    "snakes": {
+      "a": {
+        "base": "#8BC34A",
+        "pattern": "#2E7D32",
+        "belly": "#DCEDC8",
+        "outline": "#354F17"
+      },
+      "b": {
+        "base": "#7CB342",
+        "pattern": "#33691E",
+        "belly": "#D7EBC0",
+        "outline": "#344D19"
+      },
+      "c": {
+        "base": "#9CCC65",
+        "pattern": "#2E7D32",
+        "belly": "#E6F3D6",
+        "outline": "#354F17"
+      },
+      "d": {
+        "base": "#8BC34A",
+        "pattern": "#1B5E20",
+        "belly": "#DCEDC8",
+        "outline": "#354F17"
+      }
+    }
+  },
+  "dark": {
+    "background": [
+      "#1A2238",
+      "#0F1424"
+    ],
+    "tileA": "#1E2A44",
+    "tileB": "#8A6A1C",
+    "frame": "#C9A227",
+    "frameOutline": "#5E4A0A",
+    "number": "#FFF8E1",
+    "numberHalo": "#0B1020",
+    "ladderRail": "#7FB8FF",
+    "ladderRung": "#A9D0FF",
+    "ladderOutline": "#DCEBFF",
+    "glow": "#B9F6CA",
+    "startPad": "#272B3D",
+    "snakes": {
+      "a": {
+        "base": "#9CCC65",
+        "pattern": "#388E3C",
+        "belly": "#E6F3D6",
+        "outline": "#E6F2D8"
+      },
+      "b": {
+        "base": "#8DC653",
+        "pattern": "#2E7D32",
+        "belly": "#DCEDC8",
+        "outline": "#D9ECC6"
+      },
+      "c": {
+        "base": "#AED581",
+        "pattern": "#388E3C",
+        "belly": "#EEF6E4",
+        "outline": "#F8FBF4"
+      },
+      "d": {
+        "base": "#9CCC65",
+        "pattern": "#1F6B24",
+        "belly": "#E6F3D6",
+        "outline": "#E6F2D8"
+      }
+    }
+  },
+  "shadow": {
+    "offset": [
+      0.05,
+      0.07
+    ],
+    "opacity": 0.18,
+    "blur": 0.04
+  }
+}

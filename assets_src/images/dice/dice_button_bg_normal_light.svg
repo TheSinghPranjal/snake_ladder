@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="166" viewBox="0 0 160 166">
+<title>dice button normal light</title>
+<g id="button">
+<rect x="8" y="18" width="144" height="144" rx="36" fill="#E9A900" stroke="#805C00" stroke-width="4"/><rect x="8" y="8" width="144" height="144" rx="36" fill="#FFC93C" stroke="#805C00" stroke-width="4"/><ellipse cx="50" cy="28" rx="26" ry="9" fill="#FFFFFF" fill-opacity="0.45"/>
+</g>
+</svg>

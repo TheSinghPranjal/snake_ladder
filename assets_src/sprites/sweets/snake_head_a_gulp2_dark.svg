@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="36" viewBox="0 0 48 36">
+<title>sweets snake head a gulp2 dark</title>
+<defs>
+<clipPath id="h-clip"><path d="M10 18a18 11.5 0 1 0 36 0a18 11.5 0 1 0 -36 0Z"/></clipPath>
+</defs>
+<g id="neck">
+<path d="M0 10C8 10 12 9.95 18 9.38L18 26.63C12 26.05 8 26 0 26Z" fill="#FF85B3"/><path d="M0 21H16V26H0Z" fill="#FF5C9A"/><path d="M0 10C8 10 12 9.95 18 9.38" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/><path d="M18 26.63C12 26.05 8 26 0 26" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="head">
+<path d="M10 18a18 11.5 0 1 0 36 0a18 11.5 0 1 0 -36 0Z" fill="#FF85B3"/><g clip-path="url(#h-clip)"><rect x="10" y="19.73" width="36" height="11.5" fill="#FF5C9A"/><circle cx="22" cy="12" r="2.2" fill="#FFE6F0"/><circle cx="19" cy="22" r="1.8" fill="#FFE6F0"/><circle cx="26" cy="26" r="1.6" fill="#FFE6F0"/><circle cx="31" cy="9" r="1.5" fill="#FFE6F0"/></g><ellipse cx="24" cy="12.25" rx="6.84" ry="2.53" fill="#FFFFFF" fill-opacity="0.45"/><path d="M10 18a18 11.5 0 1 0 36 0a18 11.5 0 1 0 -36 0Z" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<g id="face">
+<circle cx="43" cy="15.6" r="0.9" fill="#FFFFFF"/><circle cx="43" cy="20.4" r="0.9" fill="#FFFFFF"/><path d="M42 14q3 4 0 8" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round"/><path d="M26.5 13.17q4.5 -4.05 9 0" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round"/><path d="M26.5 22.83q4.5 -4.05 9 0" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round"/>
+</g>
+</svg>

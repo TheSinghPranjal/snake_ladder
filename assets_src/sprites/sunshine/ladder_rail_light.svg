@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="64" viewBox="0 0 12 64">
+<title>sunshine ladder rail light</title>
+<defs>
+<clipPath id="rail"><rect width="12" height="64"/></clipPath>
+</defs>
+<g id="rail">
+<rect x="1" y="0" width="10" height="64" fill="#3D8BE0"/><rect x="7" y="0" width="4" height="64" fill="#1C71CE"/><path d="M3.5 0V64" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.6"/><path d="M1 0V64M11 0V64" stroke="#1B4F8F" stroke-width="2"/>
+</g>
+</svg>

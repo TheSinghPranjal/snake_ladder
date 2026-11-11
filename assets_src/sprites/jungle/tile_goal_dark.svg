@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<title>jungle tile goal dark</title>
+<g id="tile">
+<rect x="0" y="0" width="64" height="64" fill="#3B4A35"/><path d="M2 62V2H62" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/><path d="M2 63H63V2" fill="none" stroke="#000000" stroke-opacity="0.18" stroke-width="2"/><path d="M8 40l7 -5l4 6l8 -3" fill="none" stroke="#151B13" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 64q10 -14 22 -6q-8 8 -22 6z" fill="#3F6B2A" fill-opacity="0.45"/><path d="M2 62V2H62" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/><path d="M2 63H63V2" fill="none" stroke="#000000" stroke-opacity="0.18" stroke-width="2"/><path d="M8 40l7 -5l4 6l8 -3" fill="none" stroke="#050504" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><g id="golden-idol">
+<rect x="14" y="44" width="36" height="10" rx="2" fill="#9E8E6E" stroke="#3F3524" stroke-width="2.2"/><path d="M32 10L46 26L32 44L18 26Z" fill="#FFC93C" stroke="#7A5600" stroke-width="2.4" stroke-linejoin="round"/><path d="M32 10L32 44M18 26H46" stroke="#E0A500" stroke-width="1.4"/><path d="M26 20l4 -4" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

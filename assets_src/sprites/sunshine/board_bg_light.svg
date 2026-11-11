@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="780" viewBox="0 0 360 780">
+<title>sunshine background light</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF6D6"/><stop offset="1" stop-color="#FFE18A"/></linearGradient>
+</defs>
+<g id="background">
+<rect width="360" height="780" fill="url(#bg)"/><path d="M180 -60L1062.06 -238.8L1078.38 -6.03Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L1034.31 223.11L932.82 433.22Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L780.72 610.18L588.24 742.09Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L368.31 820.08L135.73 838.91Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-93.87 797.32L-305.07 698.1Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-483.65 547.92L-617.63 356.87Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-697.99 137.81L-719.34 -94.56Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-680.23 -324.6L-583.29 -536.85Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-435.05 -717.05L-245.46 -853.09Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L-27.27 -935.81L204.85 -959.66Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L435.3 -923.03L648.58 -828.39Z" fill="#FFFFFF" fill-opacity="0.18"/><path d="M180 -60L830.37 -682.1L968.45 -494Z" fill="#FFFFFF" fill-opacity="0.18"/><g fill="#FFFFFF" fill-opacity="0.7" transform="translate(60 690) scale(1)"><circle cx="0" cy="0" r="22"/><circle cx="24" cy="-8" r="26"/><circle cx="50" cy="2" r="18"/><rect x="-6" y="0" width="62" height="18" rx="9"/></g><g fill="#FFFFFF" fill-opacity="0.7" transform="translate(290 740) scale(0.8)"><circle cx="0" cy="0" r="22"/><circle cx="24" cy="-8" r="26"/><circle cx="50" cy="2" r="18"/><rect x="-6" y="0" width="62" height="18" rx="9"/></g><g fill="#FFFFFF" fill-opacity="0.7" transform="translate(300 70) scale(0.7)"><circle cx="0" cy="0" r="22"/><circle cx="24" cy="-8" r="26"/><circle cx="50" cy="2" r="18"/><rect x="-6" y="0" width="62" height="18" rx="9"/></g>
+</g>
+</svg>

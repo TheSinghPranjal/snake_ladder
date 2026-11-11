@@ -1,0 +1,13 @@
+# Generate with: dart run flutter_native_splash:create  (package added in Phase 4)
+flutter_native_splash:
+  color: "#FFF6E3"
+  color_dark: "#14161F"
+  image: assets/launcher/splash_image_light.png
+  image_dark: assets/launcher/splash_image_dark.png
+  android_12:
+    color: "#FFF6E3"
+    color_dark: "#14161F"
+    image: assets/launcher/splash_image_light.png
+    image_dark: assets/launcher/splash_image_dark.png
+  android: true
+  ios: true

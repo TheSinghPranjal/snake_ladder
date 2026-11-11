@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="36" viewBox="0 0 48 36">
+<title>jungle snake head b gulp2 light</title>
+<defs>
+<clipPath id="h-clip"><path d="M11 18a17 11.5 0 1 0 34 0a17 11.5 0 1 0 -34 0Z"/></clipPath>
+</defs>
+<g id="neck">
+<path d="M0 10C9 10 13 9.95 19 9.38L19 26.63C13 26.05 9 26 0 26Z" fill="#C49A5A"/><path d="M0 21H17V26H0Z" fill="#B8873E"/><path d="M0 10C9 10 13 9.95 19 9.38" fill="none" stroke="#4E3918" stroke-width="2" stroke-linecap="round"/><path d="M19 26.63C13 26.05 9 26 0 26" fill="none" stroke="#4E3918" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="head">
+<path d="M11 18a17 11.5 0 1 0 34 0a17 11.5 0 1 0 -34 0Z" fill="#C49A5A"/><g clip-path="url(#h-clip)"><rect x="11" y="19.73" width="34" height="11.5" fill="#B8873E"/><path d="M20 8q2.5 11.5 0 20" fill="none" stroke="#6D4C2A" stroke-width="2.6" stroke-linecap="round"/><path d="M25 8q2.5 11.5 0 20" fill="none" stroke="#6D4C2A" stroke-width="2.6" stroke-linecap="round"/></g><ellipse cx="24" cy="12.25" rx="6.46" ry="2.53" fill="#FFFFFF" fill-opacity="0.45"/><path d="M11 18a17 11.5 0 1 0 34 0a17 11.5 0 1 0 -34 0Z" fill="none" stroke="#4E3918" stroke-width="2.2" stroke-linejoin="round"/>
+</g>
+<g id="face">
+<ellipse cx="35" cy="9.5" rx="2.6" ry="1.6" fill="#FF8A80" fill-opacity="0.75"/><ellipse cx="35" cy="26.5" rx="2.6" ry="1.6" fill="#FF8A80" fill-opacity="0.75"/><circle cx="42" cy="15.6" r="0.9" fill="#4E3918"/><circle cx="42" cy="20.4" r="0.9" fill="#4E3918"/><path d="M41 14q3 4 0 8" fill="none" stroke="#4E3918" stroke-width="1.6" stroke-linecap="round"/><path d="M26.2 13.17q4.8 -4.32 9.6 0" fill="none" stroke="#4E3918" stroke-width="1.6" stroke-linecap="round"/><path d="M26.2 22.83q4.8 -4.32 9.6 0" fill="none" stroke="#4E3918" stroke-width="1.6" stroke-linecap="round"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+<title>adaptive icon background</title>
+<defs>
+<radialGradient id="sun" cx="0.35" cy="0.3" r="0.9"><stop offset="0" stop-color="#FFE48A"/><stop offset="1" stop-color="#FFB627"/></radialGradient>
+</defs>
+<g id="background">
+<rect width="432" height="432" fill="url(#sun)"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="60" viewBox="0 0 96 60">
+<title>primary button normal light</title>
+<g id="button">
+<rect x="1.5" y="7.5" width="93" height="51" rx="20" fill="#297133" stroke="#1F5C27" stroke-width="3"/><rect x="1.5" y="1.5" width="93" height="51" rx="20" fill="#3FA34D" stroke="#1F5C27" stroke-width="3"/><rect x="10" y="6.5" width="28.799999999999997" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.5"/>
+</g>
+</svg>
